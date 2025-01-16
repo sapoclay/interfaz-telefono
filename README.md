@@ -1,5 +1,7 @@
 # TelePhone
 
+![interfaz-telefono](https://github.com/user-attachments/assets/c359ae0c-95db-4cd6-b3f3-2cfbc4bf7e82)
+
 Este es un proyecto que simula un teléfono utilizando la librería `tkinter` para crear una interfaz gráfica de usuario (GUI). Los usuarios pueden marcar números, llamar, y colgar utilizando un teclado numérico interactivo. 
 A los botones se le ha dado un diseño circular (a petición de Daisy) y cambian de color cuando se presionan, con iconos para las acciones de llamar y colgar. 
 
